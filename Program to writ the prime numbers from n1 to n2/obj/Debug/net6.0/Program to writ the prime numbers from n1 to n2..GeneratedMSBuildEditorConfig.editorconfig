@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Program_to_writ_the_prime_numbers_from_n1_to_n2_
+build_property.ProjectDir = E:\Programing Task\Discrete\Program to writ the prime numbers from n1 to n2\Program to writ the prime numbers from n1 to n2\
